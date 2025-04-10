@@ -1,5 +1,5 @@
 {
-    "name": "aws-node-app",
+    "name": "aws-node-application",
     "version": "1.0.0",
     "main": "app.js",
     "scripts": {
